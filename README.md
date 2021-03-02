@@ -1,5 +1,8 @@
 # moviesapp (training project)
+### What the project looks like
 
+![screen1](src/assets/screen1.bmp)
+![screen2](src/assets/screen2.bmp)
 ## Project setup
 ```
 npm install
@@ -20,7 +23,4 @@ npm run build
 npm run lint
 ```
 
-### What the project looks like
 
-![screen1](src/assets/screen1.bmp)
-![screen2](src/assets/screen2.bmp)
